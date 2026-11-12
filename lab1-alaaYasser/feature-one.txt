@@ -1,3 +1,0 @@
-This is the first feature
-Created on feature-one branch
-update file1 to v2
